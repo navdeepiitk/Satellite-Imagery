@@ -1,0 +1,11 @@
+{"time":"2025-08-31T22:55:19.9448633+05:30","level":"INFO","msg":"stream: starting","core version":"0.21.3"}
+{"time":"2025-08-31T22:55:22.9189071+05:30","level":"INFO","msg":"stream: created new stream","id":"8e8f1hnm"}
+{"time":"2025-08-31T22:55:22.9189071+05:30","level":"INFO","msg":"stream: started","id":"8e8f1hnm"}
+{"time":"2025-08-31T22:55:22.920762+05:30","level":"INFO","msg":"writer: started","stream_id":"8e8f1hnm"}
+{"time":"2025-08-31T22:55:22.920762+05:30","level":"INFO","msg":"handler: started","stream_id":"8e8f1hnm"}
+{"time":"2025-08-31T22:55:22.920762+05:30","level":"INFO","msg":"sender: started","stream_id":"8e8f1hnm"}
+{"time":"2025-09-01T01:22:36.7900962+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gouranuj611-indian-institute-of-technology-kanpur/Satellite-Segmentation-Dubai-Images/8e8f1hnm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-01T02:54:33.1484119+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gouranuj611-indian-institute-of-technology-kanpur/Satellite-Segmentation-Dubai-Images/8e8f1hnm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-01T02:54:35.6539165+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gouranuj611-indian-institute-of-technology-kanpur/Satellite-Segmentation-Dubai-Images/8e8f1hnm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-01T07:13:13.1566679+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gouranuj611-indian-institute-of-technology-kanpur/Satellite-Segmentation-Dubai-Images/8e8f1hnm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-01T09:49:38.6006484+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/gouranuj611-indian-institute-of-technology-kanpur/Satellite-Segmentation-Dubai-Images/8e8f1hnm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

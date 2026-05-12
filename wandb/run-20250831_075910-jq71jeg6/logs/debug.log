@@ -1,0 +1,18 @@
+2025-08-31 07:59:10,716 INFO    MainThread:5864 [wandb_setup.py:_flush():81] Current SDK version is 0.21.3
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_setup.py:_flush():81] Configure stats pid to 5864
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_setup.py:_flush():81] Loading settings from C:\Users\DELL\.config\wandb\settings
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_setup.py:_flush():81] Loading settings from C:\Users\DELL\Desktop\Satellite Imagery\wandb\settings
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_init.py:setup_run_log_directory():686] Logging user logs to C:\Users\DELL\Desktop\Satellite Imagery\wandb\run-20250831_075910-jq71jeg6\logs\debug.log
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to C:\Users\DELL\Desktop\Satellite Imagery\wandb\run-20250831_075910-jq71jeg6\logs\debug-internal.log
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_init.py:monkeypatch_ipython():605] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000019DE2850140>
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_init.py:init():813] calling init triggers
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-08-31 07:59:10,718 INFO    MainThread:5864 [wandb_init.py:init():854] starting backend
+2025-08-31 07:59:13,187 INFO    MainThread:5864 [wandb_init.py:init():857] sending inform_init request
+2025-08-31 07:59:13,322 INFO    MainThread:5864 [wandb_init.py:init():865] backend started and connected
+2025-08-31 07:59:13,340 INFO    MainThread:5864 [wandb_run.py:_label_probe_notebook():1318] probe notebook
+2025-08-31 07:59:13,342 INFO    MainThread:5864 [wandb_run.py:_label_probe_notebook():1328] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-08-31 07:59:13,343 INFO    MainThread:5864 [wandb_init.py:init():936] updated telemetry
+2025-08-31 07:59:13,345 INFO    MainThread:5864 [wandb_init.py:init():960] communicating run to backend with 90.0 second timeout
